@@ -1,5 +1,5 @@
 # T5_NLP
-**T**ext **T**o **T**ext **T**ransfer **T**ransformer for **NLP**,**NLG** task
+**T**ext **T**o **T**ext **T**ransfer **T**ransformer for various **NLP** task
 
 This Transformer architecture and was introduced in the paper titled **"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"** by Colin Raffel et al. in 2019.The T5 model is unique in its approach to various natural language processing (NLP) tasks. Unlike traditional models that are designed for specific tasks like translation, summarization, question-answering, etc., T5 formulates all NLP tasks as text-to-text problems
 
